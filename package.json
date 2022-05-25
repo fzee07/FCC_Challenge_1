@@ -3,8 +3,11 @@
   "author": "fzee07",
   "description": "A project that does something awesome",
   "keywords": ["backend", "nodejs", "freecodecamp"],
+  "license": "MIT",
+  "version": "1.2.0",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "moment": "2.10.2."
   },
   "main": "server.js",
   "scripts": {
