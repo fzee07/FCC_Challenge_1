@@ -2,7 +2,12 @@
   "name": "fcc-learn-npm-package-json",
   "author": "fzee07",
   "description": "A project that does something awesome",
-  "keywords": [ "nodejs", "backend", "freecodecamp"],
+  "keywords": [
+    "nodejs",
+    "backend",
+    "freecodecamp"
+  ],
+  "license": "MIT",
   "dependencies": {
     "express": "^4.14.0"
   },
